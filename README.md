@@ -26,7 +26,7 @@ ITACHI bot v²
 
  GET SESSION ID HERE
  <br>
- <a href='https://david-session-1-4fpd.onrender.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+ <a href='https://david-session-u27d.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Get session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
 
 **DEPLOY ON HEROKU**
 
